@@ -1,1 +1,1 @@
-# djangoCrud
+# django crud operations project
